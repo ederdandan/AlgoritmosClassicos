@@ -1,0 +1,12 @@
+c:\users\coracao\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AlgoritmosClassicos.csprojResolveAssemblyReference.cache
+c:\users\coracao\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AlgoritmosClassicos.exe.config
+c:\users\coracao\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AlgoritmosClassicos.exe
+c:\users\coracao\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AlgoritmosClassicos.pdb
+c:\users\coracao\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AlgoritmosClassicos.exe
+c:\users\coracao\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AlgoritmosClassicos.pdb
+C:\Users\coracao\Documents\visual studio 2015\Projects\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\AlgoritmosClassicos.exe.config
+C:\Users\coracao\Documents\visual studio 2015\Projects\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\AlgoritmosClassicos.exe
+C:\Users\coracao\Documents\visual studio 2015\Projects\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\AlgoritmosClassicos.pdb
+C:\Users\coracao\Documents\visual studio 2015\Projects\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\AlgoritmosClassicos.csprojResolveAssemblyReference.cache
+C:\Users\coracao\Documents\visual studio 2015\Projects\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\AlgoritmosClassicos.exe
+C:\Users\coracao\Documents\visual studio 2015\Projects\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\AlgoritmosClassicos.pdb
